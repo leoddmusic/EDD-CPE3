@@ -1,0 +1,14 @@
+C:\Users\Leodd\ARIEL-CPE3-EDD\bin\Debug\net9.0\ARIEL-CPE3-EDD.exe
+C:\Users\Leodd\ARIEL-CPE3-EDD\bin\Debug\net9.0\ARIEL-CPE3-EDD.deps.json
+C:\Users\Leodd\ARIEL-CPE3-EDD\bin\Debug\net9.0\ARIEL-CPE3-EDD.runtimeconfig.json
+C:\Users\Leodd\ARIEL-CPE3-EDD\bin\Debug\net9.0\ARIEL-CPE3-EDD.dll
+C:\Users\Leodd\ARIEL-CPE3-EDD\bin\Debug\net9.0\ARIEL-CPE3-EDD.pdb
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ARIEL-CPE3-EDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ARIEL-CPE3-EDD.AssemblyInfoInputs.cache
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ARIEL-CPE3-EDD.AssemblyInfo.cs
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ARIEL-CPE3-EDD.csproj.CoreCompileInputs.cache
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ARIEL-CPE3-EDD.dll
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\refint\ARIEL-CPE3-EDD.dll
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ARIEL-CPE3-EDD.pdb
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ARIEL-CPE3-EDD.genruntimeconfig.cache
+C:\Users\Leodd\ARIEL-CPE3-EDD\obj\Debug\net9.0\ref\ARIEL-CPE3-EDD.dll
